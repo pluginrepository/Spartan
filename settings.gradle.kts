@@ -8,6 +8,6 @@ pluginManagement {
     }
 }
 
-rootProject.name = "Spartan"
+rootProject.name = "SpartanAPI"
 
 include("workspace")
